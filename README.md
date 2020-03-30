@@ -1,3 +1,3 @@
 # data-Brazil-Datasus
-2017 mortality data for the state of SP
-www2.datasus.gov.br/datasus/index.php?area=0205
+2015 mortality data for the state of SP
+http://www.datasus.gov.br/DATASUS/index.php?area=0901&item=1&acao=26
